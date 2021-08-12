@@ -17,6 +17,7 @@ This is a modification of https://addons.videolan.org/p/1154080/ . The original 
   * Linux (all users): /usr/lib/vlc/lua/playlist/
   * Linux (current user): ~/.local/share/vlc/lua/playlist/
   * Mac OS X (all users): /Applications/VLC.app/Contents/MacOS/share/lua/playlist/
+  * Mac OS X (current user): ~/Library/Application Support/org.videolan.vlc/lua/playlist/
 
 
 ##### USAGE:
